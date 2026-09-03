@@ -46,6 +46,7 @@ subjects='
 /C=CY/L=Nicosia/O=GOG Limited/CN=GOG Limited
 /C=PL/ST=Mazowieckie/L=Warszawa/O=GOG Sp. z o.o./CN=GOG Sp. z o.o.
 /C=PL/ST=MAZOWIECKIE/L=WARSZAWA/O=GOG  sp. z o.o/CN=GOG  sp. z o.o
+/C=PL/L=WARSZAWA/O=GOG  sp. z o.o/CN=GOG  sp. z o.o
 
 /C=US/O=DigiCert/CN=DigiCert Timestamp Responder
 /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Assured ID Code Signing CA-1
@@ -105,6 +106,7 @@ serials='
 36C2B0BD7C1B3AE7A3B3DD36CBC97568
 01FD6D30FCA3CA51A81BBC640E35032D
 A4293B6E1EDDD7A7340887AD7A4EB724
+0157F412364061E42365C330C3E777CA
 '
 
 set_colors() {
